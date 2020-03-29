@@ -1,0 +1,4 @@
+sample:
+  client:
+    json-place-holder:
+      uri: http://localhost:${wiremock.server.port}/json-place-holder

@@ -1,0 +1,4 @@
+sample:
+  client:
+    json-place-holder:
+      uri: https://jsonplaceholder.typicode.com

@@ -1,2 +1,6 @@
-# spring-boot-2.2.x-kotlin-reactive-sample
-Webservice using Spring Boot 2.2.x with reactive Kotlin 
+# Spring Boot 2.2.x Kotlin WebFlux Sample
+Simple webservice using Kotlin and the spring webflux library to exemplify the implementation of a reactive web service and at the same time the means to test these resources using webTestClient.
+
+## Compiling the application
+
+- ./gradlew clean build
